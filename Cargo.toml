@@ -1,0 +1,13 @@
+[package]
+name = "upspin"
+version = "0.0.1-pre"
+authors = ["Zoran Zaric <zz@zoranzaric.de>"]
+description = "A small wrapper for the upspin tool"
+
+readme = "README.md"
+license = "MIT/Apache-2.0"
+homepage = "https://github.com/zoranzaric/upspin.rs"
+repository = "https://github.com/zoranzaric/upspin-rs.git"
+
+[dependencies]
+failure = "0.1.1"
